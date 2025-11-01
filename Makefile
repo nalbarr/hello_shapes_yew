@@ -3,3 +3,6 @@ help:
 
 run:
 	trunk serve --open
+
+clean:
+	rm -fr ./dist
